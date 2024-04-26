@@ -26,10 +26,10 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN_ALIYUN }}
       - name: Build Docker image
         run: |
-          docker build -t maizi-g/ysdm:latest .
+          docker build -t registry.cn-hangzhou.aliyuncs.com/maizi-g/ysdm:latest .
       - name: Push to DockerHub
         uses: docker/build-push-action@v5.3.0
         with:
           context: .
           push: true
-          tags: maizi-g/ysdm:latest
+          tags: registry.cn-hangzhou.aliyuncs.com/maizi-g/ysdm:latest
