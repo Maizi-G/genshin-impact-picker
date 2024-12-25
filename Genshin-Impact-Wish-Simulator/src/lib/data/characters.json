@@ -2,6 +2,102 @@
 	"onlyStandard": ["amber", "kaeya", "lisa"],
 	"data": [
 		{
+			"itemID": 10000104,
+			"name": "chasca",
+			"vision": "anemo",
+			"rarity": 5,
+			"origin": "natlan",
+			"offset": {
+				"splashArt": { "x": 12.36722306525038, "y": 3.960546282245827, "scale": 1.86 },
+				"wishCard": { "x": 103.39549612948629, "y": 63.32019704433497, "scale": 14.68 },
+				"button": { "l": 52, "w": 130, "t": 35 }
+			}
+		},
+		{
+			"itemID": 10000105,
+			"name": "ororon",
+			"vision": "electro",
+			"rarity": 4,
+			"release": "5.2-1",
+			"origin": "natlan",
+			"offset": {
+				"splashArt": { "x": -1.6282245827010624, "y": 1.0440060698027314, "scale": 1.27 },
+				"wishCard": { "x": -38.149190710767066, "y": 80.44334975369458, "scale": 11.45 }
+			}
+		},
+		{
+			"itemID": 10000103,
+			"name": "xilonen",
+			"vision": "geo",
+			"rarity": 5,
+			"origin": "natlan",
+			"offset": {
+				"splashArt": { "x": 0.45528455284552843, "y": -0.09891598915989158, "scale": 1.57 },
+				"wishCard": { "x": -15.98194130925508, "y": 65.66591422121896, "scale": 11.45 },
+				"button": { "l": 52, "w": 115, "t": 25 }
+			}
+		},
+		{
+			"itemID": 10000101,
+			"name": "kinich",
+			"vision": "dendro",
+			"rarity": 5,
+			"origin": "natlan",
+			"offset": {
+				"splashArt": { "x": 0.49189189189189186, "y": -0.5472972972972973, "scale": 1.44 },
+				"wishCard": { "x": 54.05998065140278, "y": 33.25507900677201, "scale": 9.55 },
+				"button": { "l": 52, "w": 115, "t": 37 }
+			}
+		},
+		{
+			"itemID": 10000102,
+			"name": "mualani",
+			"vision": "hydro",
+			"rarity": 5,
+			"origin": "natlan",
+			"offset": {
+				"splashArt": { "x": 3.6693766937669374, "y": 3.781842818428184, "scale": 1.57 },
+				"wishCard": { "x": -56.16326530612245, "y": 61.77857142857144, "scale": 11.13 },
+				"button": { "l": 52, "w": 115, "t": 37 }
+			}
+		},
+		{
+			"itemID": 10000100,
+			"name": "kachina",
+			"vision": "geo",
+			"rarity": 4,
+			"release": "5.0-1",
+			"origin": "natlan",
+			"offset": {
+				"splashArt": { "x": -0.5203252032520325, "y": 0.5040650406504066, "scale": 1.1 },
+				"wishCard": { "x": -20.722347629796843, "y": 51.65237020316027, "scale": 7.88 }
+			}
+		},
+		{
+			"itemID": 10000099,
+			"name": "emilie",
+			"vision": "dendro",
+			"rarity": 5,
+			"origin": "fontaine",
+			"offset": {
+				"splashArt": { "x": 0.12195121951219512, "y": -3.384823848238482, "scale": 1.38 },
+				"wishCard": { "x": -5.291841341502741, "y": 55.98194130925508, "scale": 10.38 },
+				"button": { "l": 45, "w": 86, "t": 36 }
+			}
+		},
+		{
+			"itemID": 10000095,
+			"name": "sigewinne",
+			"vision": "hydro",
+			"rarity": 5,
+			"origin": "fontaine",
+			"offset": {
+				"splashArt": { "x": -4.485175202156334, "y": -12.950134770889488, "scale": 1.42 },
+				"wishCard": { "x": -31.30979133226324, "y": 24.140515222482435, "scale": 10.17 },
+				"button": { "l": 52, "w": 115, "t": 37 }
+			}
+		},
+		{
 			"itemID": 10000097,
 			"name": "sethos",
 			"vision": "electro",
@@ -20,8 +116,8 @@
 			"rarity": 5,
 			"origin": "fontaine",
 			"offset": {
-				"splashArt": { "x": -2.6630727762803237, "y": -1.7830188679245285, "scale": 1.64 },
-				"wishCard": { "x": -44.831460674157306, "y": 56.07191011235956, "scale": 11.64 },
+				"splashArt": { "x": 0.42140921409214094, "y": 0.39701897018970195, "scale": 1.24 },
+				"wishCard": { "x": -57.94904869396969, "y": 54.09706546275396, "scale": 9.55 },
 				"button": { "l": 50, "w": 125, "t": 35 }
 			}
 		},

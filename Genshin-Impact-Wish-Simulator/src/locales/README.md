@@ -27,8 +27,14 @@ If you are not familiar with javascript especially sveltekit or don't know how t
    https://webstatic-sea.hoyoverse.com/genshin/event/e20190909gacha/index.html?gacha_id=d7d9d26fd678245ee04bec46b4bab7a8f5359c90&lang=LANGUAGE&region=os_asia#/
    ```
 4. [Weapon Wish](https://webstatic-sea.hoyoverse.com/genshin/event/e20190909gacha/index.html?gacha_id=38aa9125d7f6a5c4cdaceff8ac720b22ad9236b3&lang=en&region=os_asia#/)
+
    ```
    https://webstatic-sea.hoyoverse.com/genshin/event/e20190909gacha/index.html?gacha_id=38aa9125d7f6a5c4cdaceff8ac720b22ad9236b3&lang=LANGUAGE&region=os_asia#/
+   ```
+
+5. [Cronicled Wish](https://gs.hoyoverse.com/genshin/event/e20190909gacha-v3/index.html?gacha_id=8b10b48c52dd6870f92d72e9963b44bb8968ed2f&lang=en&region=os_asia#/)
+   ```
+   https://gs.hoyoverse.com/genshin/event/e20190909gacha-v3/index.html?gacha_id=8b10b48c52dd6870f92d72e9963b44bb8968ed2f&lang=LANGUAGE&region=os_asia#/
    ```
 
 ## Thanks to all contributors who have carried out localization
@@ -65,6 +71,10 @@ If you are not familiar with javascript especially sveltekit or don't know how t
             <a href="https://github.com/LA1211">
                <img width="20px" src="https://avatars.githubusercontent.com/u/70387228?s=20" />
                LA1211
+            </a>,
+            <a href="https://github.com/Alextocode">
+               <img width="20px" src="https://avatars.githubusercontent.com/u/11820339?s=20" />
+               Alexander Schüßler
             </a>
          </td>
       </tr>

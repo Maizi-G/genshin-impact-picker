@@ -4,6 +4,7 @@
 	"akuoumaru": "Акуомару",
 	"alley-hunter": "Охотник во тьме",
 	"amos-bow": "Лук Амоса",
+	"astral-vultures-crimson-plumage": "Алое перо звёздного грифа",
 	"aqua-simulacra": "Аква симулякрум",
 	"aquila-favonia": "Меч Сокола",
 	"beacon-of-the-reed-sea": "Маяк тростникового моря",
@@ -21,13 +22,16 @@
 	"engulfing-lightning": "Сияющая жатва",
 	"everlasting-moonglow": "Вечное лунное сияние",
 	"eye-of-perception": "Око сознания",
+	"fang-of-the-mountain-king": "Клык Горного короля",
 	"favonius-codex": "Кодекс Фавония",
 	"favonius-greatsword": "Двуручный меч Фавония",
 	"favonius-lance": "Копьё Фавония",
 	"favonius-sword": "Меч Фавония",
 	"favonius-warbow": "Боевой лук Фавония",
 	"ferrous-shadow": "Металлическая тень",
+	"flower-wreathed-feathers": "Украшенные цветами перья",
 	"freedom-sworn": "Клятва свободы",
+	"fruitful-hook": "Плодотворный крюк",
 	"haran-geppaku-futsu": "Харан гэппаку фуцу",
 	"harbinger-of-dawn": "Предвестник зари",
 	"hunter_s-path": "Охотничья тропа",
@@ -39,12 +43,15 @@
 	"lithic-blade": "Каменный меч",
 	"lithic-spear": "Каменное копьё",
 	"lost-prayer-to-the-sacred-winds": "Молитва святым ветрам",
+	"lumidouce-elegy": "Элегия Люмидус",
 	"magic-guide": "Руководство по магии",
 	"makhaira-aquamarine": "Аквамарин махайры",
 	"memory-of-dust": "Память о пыли",
 	"mistsplitter-reforged": "Рассекающий туман",
 	"mitternachts-waltz": "Вальс Нирваны Ночи",
+	"mountain-bracing-bolt": "Крепящий горы шип",
 	"mouun_s-moon": "Луна Моун",
+	"peak-patrol-song": "Песнь патруля пиков",
 	"polar-star": "Полярная звезда",
 	"portable-power-saw": "Переносная мотопила",
 	"primordial-jade-cutter": "Драгоценный омут",
@@ -60,6 +67,7 @@
 	"sacrificial-greatsword": "Церемониальный двуручный меч",
 	"sacrificial-sword": "Церемониальный меч",
 	"sharpshooter_s-oath": "Клятва стрелка",
+	"silvershower-heartstrings": "Сердечные струны дождя",
 	"skyrider-sword": "Меч небесного всадника",
 	"skyward-atlas": "Небесный атлас",
 	"skyward-blade": "Небесный меч",
@@ -71,7 +79,9 @@
 	"splendor-of-tranquil-waters": "Блеск тихих вод",
 	"staff-of-homa": "Посох Хомы",
 	"staff-of-the-scarlet-sands": "Посох алых песков",
+	"sturdy-bone": "Крепкая кость",
 	"summit-shaper": "Кромсатель пиков",
+	"surfs-up": "Лови волну",
 	"the-alley-flash": "Вспышка во тьме",
 	"the-bell": "Меч-колокол",
 	"the-dockhands-assistant": "Верфь",
@@ -88,8 +98,9 @@
 	"verdict": "Вердикт",
 	"vortex-vanquisher": "Покоритель вихря",
 	"wavebreaker_s-fin": "Режущий волны плавник",
-	"wine-and-song": "Вино и песни",
 	"wandering-evenstar": "Скитающаяся звезда",
+	"waveriding-whirl": "Вихрь на волнах",
+	"wine-and-song": "Вино и песни",
 	"wolf_s-gravestone": "Волчья погибель",
 	"xiphos-moonlight": "Лунное сияние ксифоса",
 	"albedo": {
@@ -136,6 +147,10 @@
 		"name": "Шарлотта",
 		"title": "Объективная реальность"
 	},
+	"chasca": {
+		"name": "Часка",
+		"title": "Небесный примиритель"
+	},
 	"chevreuse": {
 		"name": "Шеврёз",
 		"title": "Вершитель правосудия"
@@ -175,6 +190,10 @@
 	"dori": {
 		"name": "Дори",
 		"title": "Сокровище сада снов"
+	},
+	"emilie": {
+		"name": "Эмилия",
+		"title": "След тысячи ароматов"
 	},
 	"eula": {
 		"name": "Эола",
@@ -216,6 +235,10 @@
 		"name": "Джинн",
 		"title": "Рыцарь Одуванчик"
 	},
+	"kachina": {
+		"name": "Качина",
+		"title": "Крапчатое самородное золото"
+	},
 	"kaedehara-kazuha": {
 		"name": "Кадзуха",
 		"title": "Багряные листья и неистовые волны"
@@ -239,6 +262,10 @@
 	"keqing": {
 		"name": "Кэ Цин",
 		"title": "Раскаты грома"
+	},
+	"kinich": {
+		"name": "Кинич",
+		"title": "Охотник Пламени поворота"
 	},
 	"kirara": {
 		"name": "Кирара",
@@ -280,6 +307,10 @@
 		"name": "Мона",
 		"title": "Звёздное отражение"
 	},
+	"mualani": {
+		"name": "Муалани",
+		"title": "Укротительница волн"
+	},
 	"nahida": {
 		"name": "Нахида",
 		"title": "Средоточие чистоты"
@@ -303,6 +334,10 @@
 	"noelle": {
 		"name": "Ноэлль",
 		"title": "Нераспустившийся цветок"
+	},
+	"ororon": {
+		"name": "Оророн",
+		"title": "Тень Ночного Ветра"
 	},
 	"qiqi": {
 		"name": "Ци Ци",
@@ -339,6 +374,10 @@
 	"shikanoin-heizou": {
 		"name": "Хэйдзо",
 		"title": "Невозмутимое спокойствие"
+	},
+	"sigewinne": {
+		"name": "Сиджвин",
+		"title": "Преображённая дочь дракона"
 	},
 	"sucrose": {
 		"name": "Сахароза",
@@ -379,6 +418,10 @@
 	"xiao": {
 		"name": "Сяо",
 		"title": "Защитник Якса"
+	},
+	"xilonen": {
+		"name": "Шилонен",
+		"title": "Закалённая пламенем душа"
 	},
 	"xingqiu": {
 		"name": "Син Цю",
